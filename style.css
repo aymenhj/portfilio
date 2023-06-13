@@ -1,0 +1,36 @@
+.var {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+display: flex;
+justify-content: space-around;  
+
+}
+.vr{
+    background-color: black;
+    font-size: x-large;
+}
+  .vp{
+       background-color: black;
+          font-size: x-large;
+    }
+      .vn{
+            background-color: black;
+              font-size: x-large;   
+}
+            .vs{
+                background-color: black;
+                    font-size: x-large;
+    }
+.van{
+    margin-left: 50%;
+    color:red;
+}
+.vap{
+
+    background-color: brown;
+}
+.pop{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
